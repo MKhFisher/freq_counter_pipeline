@@ -1,0 +1,6 @@
+c:\users\michaelf\documents\visual studio 2013\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.exe.config
+c:\users\michaelf\documents\visual studio 2013\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.csprojResolveAssemblyReference.cache
+c:\users\michaelf\documents\visual studio 2013\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.pdb
+c:\users\michaelf\documents\visual studio 2013\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.pdb
